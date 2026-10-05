@@ -62,9 +62,3 @@ The objective is to analyze:
 
 Insights will be added as the analysis progresses.
 
-
-│   ├── 05_product_analysis.sql
-│   └── 06_advanced_analysis.sql
-│
-└── insights/
-    └── business_insights.md
