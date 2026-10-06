@@ -58,7 +58,4 @@ The objective is to analyze:
 9. Who are the top customers?
 10. What business insights can be derived from the data?
 
-## 📈 Key Insights
-
-Insights will be added as the analysis progresses.
 
